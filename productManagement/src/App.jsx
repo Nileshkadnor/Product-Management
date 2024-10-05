@@ -6,8 +6,8 @@ import ProductForm from './components/ProductForm';
 import ProductList from './components/ProductList';
 import CategorySelect from './components/CategorySelect';
 import CategoryModal from './components/CategoryModal';
-//import 'path-to-admin-lte/dist/css/adminlte.min.css';
-//import 'path-to-admin-lte/dist/js/adminlte.min.js';
+import 'path-to-admin-lte/dist/css/adminlte.min.css';
+import 'path-to-admin-lte/dist/js/adminlte.min.js';
 
 
 
