@@ -1,0 +1,50 @@
+
+.category-select {
+    margin: 20px; 
+    padding: 15px; 
+    border: 1px solid #ddd; 
+    border-radius: 8px; 
+    background-color: #f9f9f9; 
+  }
+  
+  
+  .category-select label {
+    display: block; 
+    font-weight: bold; 
+    margin-bottom: 8px; 
+  }
+  
+  
+  .category-select select {
+    width: 100%; 
+    padding: 10px;
+    margin-bottom: 15px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    font-size: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    transition: border-color 0.3s; 
+  }
+  
+  
+  .category-select select:focus {
+    border-color: #007bff; 
+    outline: none;
+  }
+  
+  
+  .category-select button {
+    background-color: #007bff; 
+    color: white;
+    border: none; 
+    padding: 10px 15px; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    transition: background-color 0.3s;
+  }
+  
+  
+  .category-select button:hover {
+    background-color: #0056b3; 
+  }
+  
